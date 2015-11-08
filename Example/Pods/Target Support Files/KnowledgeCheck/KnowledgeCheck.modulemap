@@ -1,0 +1,6 @@
+framework module KnowledgeCheck {
+  umbrella header "KnowledgeCheck-umbrella.h"
+
+  export *
+  module * { export * }
+}

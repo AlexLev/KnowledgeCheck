@@ -1,0 +1,14 @@
+PODS:
+  - KnowledgeCheck (0.1.0)
+
+DEPENDENCIES:
+  - KnowledgeCheck (from `../`)
+
+EXTERNAL SOURCES:
+  KnowledgeCheck:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KnowledgeCheck: 13941032beb35705cab7aac5b794b25f1d734c1d
+
+COCOAPODS: 0.39.0

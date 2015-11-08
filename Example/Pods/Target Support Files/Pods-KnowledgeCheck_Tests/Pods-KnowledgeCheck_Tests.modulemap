@@ -1,0 +1,6 @@
+framework module Pods_KnowledgeCheck_Tests {
+  umbrella header "Pods-KnowledgeCheck_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
